@@ -1,25 +1,41 @@
-class Solution:
-    def robotSim(self, commands: list[int], obstacles: list[list[int]]) -> int:
-        dirs = ((0, 1), (1, 0), (0, -1), (-1, 0))  # Directions: North, East, South, West
-        ans = 0
-        d = 0  # Initial direction: North
-        x = 0  # Starting x position
-        y = 0  # Starting y position
-        obstaclesSet = set(tuple(obstacle) for obstacle in obstacles)  # Convert obstacles to a set of tuples
+class Solution {
+ public:
+  int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
+    constexpr int dirs[4][2] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    int ans = 0;
+    int d = 0;  // 0 := north, 1 := east, 2 := south, 3 := west
+    int x = 0;  // the start x
+    int y = 0;  // the start y
+    unordered_set<pair<int, int>, PairHash> obstaclesSet;
 
-        for c in commands:
-            if c == -1:
-                d = (d + 1) % 4
-            elif c == -2:
-                d = (d + 3) % 4
-            else:
-                for _ in range(c):
-                    new_x = x + dirs[d][0]
-                    new_y = y + dirs[d][1]
-                    if (new_x, new_y) in obstaclesSet:
-                        break
-                    x, y = new_x, new_y
+    for (const vector<int>& o : obstacles)
+      obstaclesSet.insert({o[0], o[1]});
 
-            ans = max(ans, x * x + y * y)
+    for (const int c : commands) {
+      if (c == -1) {
+        d = (d + 1) % 4;
+      } else if (c == -2) {
+        d = (d + 3) % 4;
+      } else {
+        for (int step = 0; step < c; ++step) {
+          int new_x = x + dirs[d][0];
+          int new_y = y + dirs[d][1];
+          if (obstaclesSet.count({new_x, new_y}))
+            break;
+          x = new_x;
+          y = new_y;
+        }
+      }
+      ans = max(ans, x * x + y * y);
+    }
 
-        return ans
+    return ans;
+  }
+
+ private:
+  struct PairHash {
+    size_t operator()(const pair<int, int>& p) const {
+      return hash<int>()(p.first) ^ hash<int>()(p.second);
+    }
+  };
+};
