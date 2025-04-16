@@ -44,4 +44,13 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0027-remove-element) |
+| [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
