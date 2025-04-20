@@ -84,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 ## Greedy
 |  |
