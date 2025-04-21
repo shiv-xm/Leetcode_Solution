@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [2249-count-the-hidden-sequences](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
