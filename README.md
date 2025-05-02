@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
@@ -94,11 +95,13 @@
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## String Matching
 |  |
