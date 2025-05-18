@@ -107,6 +107,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## String Matching
 |  |
