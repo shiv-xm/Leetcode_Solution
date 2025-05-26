@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -63,6 +64,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
