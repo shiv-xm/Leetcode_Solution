@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
