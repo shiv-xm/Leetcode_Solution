@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
@@ -152,6 +153,7 @@
 | [0015-3sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
