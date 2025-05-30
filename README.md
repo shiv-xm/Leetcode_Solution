@@ -136,6 +136,7 @@
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
+| [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
+| [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Greedy
@@ -188,6 +190,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
