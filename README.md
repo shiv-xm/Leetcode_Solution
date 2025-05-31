@@ -27,6 +27,7 @@
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
+| [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -242,9 +243,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
