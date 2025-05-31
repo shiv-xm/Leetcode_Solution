@@ -50,6 +50,7 @@
 | [3194-find-words-containing-character](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
