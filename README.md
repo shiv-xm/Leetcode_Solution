@@ -139,6 +139,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
 | ------- |
