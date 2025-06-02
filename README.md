@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0135-candy) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
