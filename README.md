@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -73,6 +75,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
