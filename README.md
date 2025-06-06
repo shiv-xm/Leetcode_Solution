@@ -138,6 +138,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -289,6 +290,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3738-make-array-non-decreasing](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
@@ -313,11 +315,13 @@
 | [0141-linked-list-cycle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Union Find
 |  |
 | ------- |
