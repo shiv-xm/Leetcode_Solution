@@ -109,6 +109,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
@@ -122,6 +123,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
@@ -139,6 +141,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
@@ -190,6 +193,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
@@ -329,6 +333,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0328-odd-even-linked-list) |
