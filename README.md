@@ -211,6 +211,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -252,6 +253,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Queue
 |  |
@@ -272,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 ## Tree
