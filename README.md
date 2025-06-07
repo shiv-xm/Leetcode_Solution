@@ -68,6 +68,7 @@
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -157,6 +158,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
@@ -189,6 +191,7 @@
 | [0015-3sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
