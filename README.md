@@ -290,6 +290,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0386-lexicographical-numbers) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0386-lexicographical-numbers) |
 ## Graph
 |  |
 | ------- |
