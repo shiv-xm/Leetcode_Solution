@@ -69,6 +69,7 @@
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -163,6 +164,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
