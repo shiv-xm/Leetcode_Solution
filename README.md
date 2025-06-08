@@ -26,6 +26,7 @@
 | [0228-summary-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
@@ -70,6 +71,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -98,6 +100,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
@@ -146,6 +149,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -200,6 +204,7 @@
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
