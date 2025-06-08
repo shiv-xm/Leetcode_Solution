@@ -223,6 +223,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
@@ -356,6 +357,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
