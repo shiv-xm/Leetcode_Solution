@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -169,6 +170,7 @@
 | [0205-isomorphic-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -270,6 +273,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
