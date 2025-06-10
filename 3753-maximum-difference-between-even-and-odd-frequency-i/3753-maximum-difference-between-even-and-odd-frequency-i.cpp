@@ -18,7 +18,7 @@ public:
             }
         }
 
-        if (maxOdd == INT_MIN || minEven == INT_MAX) 
+        if (maxOdd == INT_MIN || minEven == INT_MAX) {
             return 0;
         }
 
