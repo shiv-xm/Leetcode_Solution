@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0202-happy-number) |
@@ -288,6 +289,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
