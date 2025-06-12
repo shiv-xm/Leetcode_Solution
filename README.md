@@ -148,6 +148,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0148-sort-list) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
