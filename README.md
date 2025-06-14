@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
@@ -408,4 +410,8 @@
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
