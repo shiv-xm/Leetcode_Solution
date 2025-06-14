@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
