@@ -96,6 +96,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [3194-find-words-containing-character](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
@@ -247,6 +249,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
