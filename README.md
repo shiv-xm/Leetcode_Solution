@@ -318,6 +318,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -448,4 +450,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
