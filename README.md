@@ -121,6 +121,7 @@
 | [0278-first-bad-version](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
@@ -268,6 +269,7 @@
 | [0292-nim-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
