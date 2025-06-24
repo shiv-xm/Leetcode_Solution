@@ -30,6 +30,7 @@
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0495-teemo-attacking](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0495-teemo-attacking) |
 | [2048-build-array-from-permutation](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
