@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0078-subsets) |
@@ -170,6 +171,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -221,6 +223,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -390,6 +393,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -402,6 +406,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [3738-make-array-non-decreasing](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3738-make-array-non-decreasing) |
