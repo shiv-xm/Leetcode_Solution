@@ -55,6 +55,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1580-shuffle-the-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1580-shuffle-the-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -376,6 +377,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
@@ -402,6 +404,7 @@
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2048-build-array-from-permutation](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -449,6 +452,7 @@
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
