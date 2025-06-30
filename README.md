@@ -38,6 +38,7 @@
 | [0503-next-greater-element-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
@@ -103,6 +104,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -279,6 +282,7 @@
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -293,6 +297,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
