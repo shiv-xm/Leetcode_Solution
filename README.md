@@ -237,6 +237,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -457,6 +458,7 @@
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
