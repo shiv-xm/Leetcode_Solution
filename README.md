@@ -254,6 +254,7 @@
 | [3194-find-words-containing-character](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3617-find-the-original-typed-string-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
