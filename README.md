@@ -235,6 +235,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0812-rotate-string) |
@@ -330,6 +331,7 @@
 | [0326-power-of-three](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
