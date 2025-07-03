@@ -342,6 +342,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
@@ -415,6 +416,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +431,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -534,6 +537,7 @@
 | [0234-palindrome-linked-list](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
