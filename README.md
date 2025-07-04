@@ -52,6 +52,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -110,6 +111,7 @@
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -132,6 +134,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -333,6 +336,7 @@
 | [0367-valid-perfect-square](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
@@ -376,6 +380,7 @@
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
