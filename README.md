@@ -42,6 +42,7 @@
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
@@ -485,6 +486,7 @@
 | [0503-next-greater-element-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -504,6 +506,7 @@
 | [0402-remove-k-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [3738-make-array-non-decreasing](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3738-make-array-non-decreasing) |
