@@ -45,6 +45,7 @@
 | [0739-daily-temperatures](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
@@ -366,6 +367,7 @@
 | [0135-candy](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [0890-lemonade-change](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
