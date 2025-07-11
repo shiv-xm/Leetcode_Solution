@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root, vector<int>& result) {
-        if (root == nullptr) return; 
-        inorder(root->left, result);  // Traverse left subtree
-        result.push_back(root->val);   // Visit the current node
-        inorder(root->right, result); // Traverse right subtree
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> result;
+        inorder(root, result);
+        return result;
     }
 
-    vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> result;          // Vector to store the result
-        inorder(root, result);       // Start the recursive traversal
-        return result;               // Return the final result
+private:
+    void inorder(TreeNode* node, vector<int>& result) {
+        if (node == nullptr) return;
+        inorder(node->left, result);
+        result.push_back(node->val);
+        inorder(node->right, result);
     }
 };
