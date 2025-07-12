@@ -473,6 +473,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -481,6 +482,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0386-lexicographical-numbers) |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -634,6 +637,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
