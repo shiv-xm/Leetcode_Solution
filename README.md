@@ -480,6 +480,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -493,6 +494,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0386-lexicographical-numbers) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
@@ -532,6 +534,7 @@
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
