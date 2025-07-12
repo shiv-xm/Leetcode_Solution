@@ -263,6 +263,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1666-make-the-string-great](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -541,6 +542,7 @@
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2227-sum-of-subarray-ranges) |
