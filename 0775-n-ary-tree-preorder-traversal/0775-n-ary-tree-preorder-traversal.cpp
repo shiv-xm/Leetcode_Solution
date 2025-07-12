@@ -21,18 +21,21 @@ public:
 class Solution {
 public:
     vector<int> preorder(Node* root) {
+        if (root == nullptr) return {};
+
         vector<int> result;
-        preorderHelper(root, result);
+        stack<Node*> st;
+        st.push(root);
+
+        while (!st.empty()) {
+            Node* node = st.top();
+            st.pop();
+            result.push_back(node->val);  
+
+            for (auto it = node->children.rbegin(); it != node->children.rend(); ++it)
+                st.push(*it);
+        }
+
         return result;
-    }
-
-private:
-    void preorderHelper(Node* node, vector<int>& result) {
-        if (node == nullptr)
-            return;
-
-        result.push_back(node->val); 
-        for (Node* child : node->children)
-            preorderHelper(child, result); 
     }
 };
