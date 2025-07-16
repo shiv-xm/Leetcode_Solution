@@ -92,6 +92,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -303,6 +304,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 ## String Matching
 |  |
