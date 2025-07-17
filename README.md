@@ -66,6 +66,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1839-decode-xored-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2048-build-array-from-permutation](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -465,6 +466,7 @@
 | [0136-single-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0342-power-of-four) |
+| [1839-decode-xored-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
