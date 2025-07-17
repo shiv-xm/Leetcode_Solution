@@ -37,6 +37,7 @@
 | [0496-next-greater-element-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0682-baseball-game) |
@@ -325,6 +326,7 @@
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -392,6 +394,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0890-lemonade-change) |
@@ -532,6 +535,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Matrix
 |  |
 | ------- |
