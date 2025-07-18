@@ -75,6 +75,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
@@ -306,6 +307,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -646,6 +648,7 @@
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Backtracking
