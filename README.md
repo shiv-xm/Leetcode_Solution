@@ -275,6 +275,7 @@
 | [0874-backspace-string-compare](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
