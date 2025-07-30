@@ -92,6 +92,7 @@
 | [2479-meeting-rooms-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -501,6 +502,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -697,6 +699,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0292-nim-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
