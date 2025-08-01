@@ -19,6 +19,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -322,6 +323,7 @@
 | [0042-trapping-rain-water](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
