@@ -52,6 +52,7 @@
 | [0907-koko-eating-bananas](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
@@ -137,6 +138,7 @@
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -166,6 +168,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1351-replace-the-substring-for-balanced-string) |
