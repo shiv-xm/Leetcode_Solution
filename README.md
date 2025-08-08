@@ -336,6 +336,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0678-valid-parenthesis-string) |
+| [0826-soup-servings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
@@ -415,6 +416,7 @@
 | [0412-fizz-buzz](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -752,4 +754,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
