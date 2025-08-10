@@ -139,6 +139,7 @@
 | [0575-distribute-candies](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -370,6 +371,7 @@
 | [0414-third-maximum-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -391,6 +393,7 @@
 | [0169-majority-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -417,6 +420,7 @@
 | [0415-add-strings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -646,6 +650,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2202-sum-of-k-mirror-numbers) |
