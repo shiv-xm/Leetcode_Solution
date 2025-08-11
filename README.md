@@ -97,6 +97,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2689-rearranging-fruits) |
@@ -479,6 +480,7 @@
 | [1833-find-the-highest-altitude](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -523,6 +525,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
