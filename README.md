@@ -110,6 +110,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -603,6 +604,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
