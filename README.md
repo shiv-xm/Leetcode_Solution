@@ -68,6 +68,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-defuse-the-bomb](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -180,6 +181,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1873-longest-nice-substring) |
@@ -344,6 +346,7 @@
 | [0868-push-dominoes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
