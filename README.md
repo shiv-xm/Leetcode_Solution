@@ -323,6 +323,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3312-number-of-changing-keys) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
