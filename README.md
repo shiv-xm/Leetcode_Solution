@@ -116,6 +116,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3738-make-array-non-decreasing](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3738-make-array-non-decreasing) |
@@ -491,6 +492,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -555,6 +557,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Tree
 |  |
 | ------- |
