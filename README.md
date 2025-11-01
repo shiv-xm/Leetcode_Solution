@@ -590,6 +590,7 @@
 | [0386-lexicographical-numbers](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0386-lexicographical-numbers) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -601,6 +602,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0820-find-eventual-safe-states](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -688,6 +690,7 @@
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Linked List
 |  |
@@ -782,4 +785,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0826-soup-servings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/shiv-xm/Leetcode_Solution/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
