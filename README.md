@@ -117,6 +117,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -169,6 +170,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -195,6 +197,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
@@ -741,6 +744,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/shiv-xm/Leetcode_Solution/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shiv-xm/Leetcode_Solution/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
